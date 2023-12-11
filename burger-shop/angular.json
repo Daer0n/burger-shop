@@ -43,7 +43,8 @@
                   "maximumError": "4kb"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "baseHref": "/burger-shop/"
             },
             "development": {
               "optimization": false,

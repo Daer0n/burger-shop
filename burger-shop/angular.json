@@ -37,7 +37,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/burger-shop/burger-shop/dist/burger-shop"
+              "baseHref": "/burger-shop/burger-shop/"
             },
             "development": {
               "optimization": false,
